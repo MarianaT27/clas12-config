@@ -658,7 +658,7 @@
 	]
   },
   "rgd_fall2023": {
-	"tor1.00_sol-1.00": [
+	"tor+1.00_sol-1.00": [
 	  "60nAAvg_10540MeV"
 	],
 	"tor-1.00_sol-1.00": [
@@ -701,6 +701,33 @@
 		"beam_current": "130nA",
 		"beam_energy": "10547.3",
 		"torus": "-1.00",
+		"solenoid": "-1.00",
+		"lumi_weight": 1.00
+	  },
+	  "18419": {
+		"title": "RGD Fall23",
+		"target": "LD2",
+		"beam_current": "60nA",
+		"beam_energy": "10547.3",
+		"torus": "+1.00",
+		"solenoid": "-1.00",
+		"lumi_weight": 1.00
+	  },
+	  "18440": {
+		"title": "RGD Fall23",
+		"target": "CxC",
+		"beam_current": "50nA",
+		"beam_energy": "10532.2",
+		"torus": "+1.00",
+		"solenoid": "-1.00",
+		"lumi_weight": 1.00
+	  },
+	  "18560": {
+		"title": "RGD Fall23",
+		"target": "CuSn",
+		"beam_current": "95nA",
+		"beam_energy": "10532.2",
+		"torus": "+1.00",
 		"solenoid": "-1.00",
 		"lumi_weight": 1.00
 	  }
